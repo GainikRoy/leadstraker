@@ -5,3 +5,4 @@
 <li> Front-end :- HTML, css </li>
 <li> back-end :- JS </li>
 </ul>
+<p> Know the steps to use it yourselves :- <a href = "https://dev.to/ben/how-to-install-chrome-extensions-manually-from-github-1612"> here </a>
